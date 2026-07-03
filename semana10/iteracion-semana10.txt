@@ -1,0 +1,14 @@
+**1. ¿Qué 2 tareas del backlog harías primero?**
+Yo empezaría por desarrollar la funcionalidad principal de la aplicación, porque es la base de todo el proyecto. Después trabajaría en la configuración de las notificaciones automáticas, ya que permiten mantener informados a los usuarios y facilitan el seguimiento de las actividades.
+
+**2. ¿Por qué son las más importantes?**
+Considero que estas dos tareas son las más importantes porque, sin la funcionalidad principal, la aplicación no cumpliría su propósito. Además, las notificaciones ayudan a mejorar la comunicación y a que las personas estén al tanto de los avances o de cualquier cambio importante.
+
+**3. ¿Qué significa para ti que una tarea esté “terminada”?**
+Para mí, una tarea está terminada cuando realmente cumple con lo que se esperaba y puede utilizarse sin inconvenientes. No basta con que esté hecha; también debe haber sido revisada para asegurar que funciona correctamente.
+
+**Definición simple de “terminado”:**
+
+* La funcionalidad cumple con lo que se solicitó y funciona correctamente.
+* Fue probada para verificar que no presenta errores.
+* Los cambios quedaron registrados en Git y están listos para compartirse con el equipo.
